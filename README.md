@@ -3,7 +3,7 @@ Do Lineage M Master auto heal by using visual recognition in Python
 
 有興趣的大家 好~
 
-感謝 Ashing's Blog ("http://arbu00.blogspot.com/2016/11/1-opencv-knn.html")的範例 才有這個應用
+感謝 Ashing's Blog (" http://arbu00.blogspot.com/2016/11/1-opencv-knn.html ")的範例 才有這個應用
 
 我不提供train data, 請自行切圖自己訓練. 
 我自己訓練圖N=25~40沒有很多, 已經可以掛網3天不用回城買水, 但是會有凸波掉位數的情況, 可以自行調整閾值, 或加高N數, 寫濾波器...等.
