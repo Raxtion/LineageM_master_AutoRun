@@ -13,9 +13,12 @@ Do Lineage M Master auto heal by using visual recognition in Python
 2. 建立決策樹, 自動回城買水, 解每日任務, 自動判斷危機時刻(殺人或烙跑)...等
 
 非常感謝
+
 我們立志做出合法外掛, 要不你出個遊戲不要顯示任何畫面阿
+
 內容若有亂寫,亂註解,看不懂的請見諒 請挑自己需要的去用
 
 Worth
 Health
+
 Tin
