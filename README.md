@@ -14,6 +14,7 @@ Do Lineage M Master auto heal by using visual recognition in Python
 
 非常感謝
 我們立志做出合法外掛, 要不你出個遊戲不要顯示任何畫面阿
+內容若有亂寫,亂註解,看不懂的請見諒 請挑自己需要的去用
 
 Worth
 Health
